@@ -6,6 +6,7 @@ signal building_placed(building: Node2D, pos: Vector2i)
 signal building_destroyed(building: Node2D, pos: Vector2i)
 
 const BuildingScript = preload("res://scripts/farm/building.gd")
+const TurretScript = preload("res://scripts/defense/turret.gd")
 
 var buildings: Dictionary = {}  # Vector2i -> Node2D (Building)
 var buildings_container: Node2D = null
@@ -39,7 +40,10 @@ func place_building(pos: Vector2i, data) -> bool:
 		return false
 
 	var building_node := Node2D.new()
-	building_node.set_script(BuildingScript)
+	if data.building_type == 1:
+		building_node.set_script(TurretScript)
+	else:
+		building_node.set_script(BuildingScript)
 	buildings_container.add_child(building_node)
 	building_node.setup(data, pos)
 
