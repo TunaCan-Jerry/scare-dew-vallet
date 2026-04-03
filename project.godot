@@ -24,3 +24,6 @@ textures/canvas_textures/default_texture_filter=0
 2d_physics/layer_3="player"
 2d_physics/layer_4="buildings"
 2d_navigation/layer_1="ground"
+
+[autoload]
+GameState="*res://scripts/core/game_state.gd"
