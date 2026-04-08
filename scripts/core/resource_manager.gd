@@ -1,4 +1,3 @@
-class_name ResourceManager
 extends Node
 
 signal resource_changed(resource_name: String, new_amount: int)

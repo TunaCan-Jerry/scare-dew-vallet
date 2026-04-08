@@ -137,8 +137,8 @@ func _create_scene_tree() -> void:
 	add_child(npc_maria)
 	npc_maria.setup(maria_data)
 
-	# HUD
-	hud = Node.new()
+	# HUD (extends CanvasLayer)
+	hud = CanvasLayer.new()
 	hud.name = "HUD"
 	hud.set_script(load("res://scripts/ui/hud.gd"))
 	add_child(hud)
@@ -152,8 +152,8 @@ func _create_scene_tree() -> void:
 	build_menu.set_script(load("res://scripts/ui/build_menu.gd"))
 	build_menu_layer.add_child(build_menu)
 
-	# Dialogue box
-	dialogue_box = Node.new()
+	# Dialogue box (extends CanvasLayer)
+	dialogue_box = CanvasLayer.new()
 	dialogue_box.name = "DialogueBox"
 	dialogue_box.set_script(load("res://scripts/ui/dialogue_box.gd"))
 	add_child(dialogue_box)

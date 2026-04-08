@@ -1,4 +1,3 @@
-class_name GameState
 extends Node
 
 enum Phase { DAY, DUSK, NIGHT, DAWN }
