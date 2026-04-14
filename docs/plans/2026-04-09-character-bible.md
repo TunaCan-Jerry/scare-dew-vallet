@@ -24,6 +24,14 @@ Every character has a **primary pillar** and a **secondary pillar**. The combina
 
 ---
 
+## Design Principles
+
+- **"If a character is in the pool, their reality is real."** Mabel's magic works. The Deep One is real. Dagon exists. No grand cosmology system — the characters themselves define what's true in each run by their presence.
+- **Seed-dependent reality** only matters when it makes a character more interesting (e.g., Ohm's Broken God, not Mabel's wards). Default: it's real.
+- **Mostly story-based, not mechanical**, unless there's a good reason to go deeper with a specific character.
+
+---
+
 ## Designed Characters
 
 ### 1. Rem (placeholder name) — Scholar (Knowledge + Knowledge)
@@ -220,17 +228,31 @@ Every character has a **primary pillar** and a **secondary pillar**. The combina
 
 ---
 
-### 9. Marco — Sensei (Fighter + Community) [*needs detail pass*]
+### 9. Marco — Sensei (Fighter + Community)
 
 - **Age:** Late 20s
 - **Gender:** Male
-- **Personality:** Warm, loud, energetic. Genuinely believes in people. Talks with his hands, swears casually. Argues politics with joy not anger. First to volunteer. Channels frustration into motivation.
+- **Ethnicity:** Latino
+- **Appearance:** Stocky, work-worn, calloused hands, dark hair kept short. No tattoos. Always wearing something lefty — seed-dependent from pool:
+  - Woody Guthrie "This Machine Kills Fascists" patch on jacket
+  - IWW (Industrial Workers of the World) pin
+  - Faded "Union Strong" cap
+  - Red bandana
+  - "Solidarity Forever" enamel pin
+  - SRA range bag he uses for everything
+  - Dog-eared Chomsky or Zinn book in back pocket
+  - "An Injury To One Is An Injury To All" sticker on water bottle
+- **Personality:** Warm, loud, energetic. Genuinely believes in people — not naive, just "I've seen what regular people do when they organize." Talks with his hands, swears casually. Argues politics with joy not anger. First to volunteer. Channels frustration into motivation instead of judgment. Makes a room feel more alive when he walks in.
 - **Pre-apocalypse:** Electrician, union steward. SRA firearms instructor — ran weekend training for first-timers, single moms, queer kids. Had a podcast with 200 listeners about labor organizing.
-- **Arrival:** Shows up with a small group he's been keeping alive. They scatter, he stays. Immediately starts organizing work shifts and offering to teach shooting.
-- **Trait:** Community Defense — defenders in his zone get +25% accuracy, +15% damage. Can train characters during the day to permanently improve combat stats.
-- **Max-bond ability:** Solidarity — all defenders fight at max effectiveness for one wave regardless of morale/injuries/debuffs.
-- **Weakness:** Spreads thin, burns out. Can't sit still. Average solo stats — needs people to shine.
-- **Romanceable:** Yes
+- **Backstory:** Good parents who raised him right — strong sense of right and wrong, always rooting for the little guy. Good student, got in a few fights punching bullies. When he was 17 his mom got cancer. Treatment drained the family's resources. Dad started drinking after she died — not a mean drunk, just a broken man. Dad had a massive heart attack while Marco was halfway through his electrical apprenticeship. Everything Marco does — the organizing, the teaching, the refusal to let anyone face things alone — traces back to watching his family get chewed up and deciding the answer is community, not isolation. His dad chose isolation and it killed him. Marco chose the opposite.
+- **Arrival:** Shows up with a small group of survivors he's been keeping alive. They scatter or settle elsewhere. He stays because the farm has potential. Immediately starts organizing work shifts and offering to teach people to shoot. Doesn't wait to be asked.
+- **Trait:** Community Defense — all characters assigned to night defense in his zone get +25% accuracy, +15% damage. During the day, he can train characters — spending time with him permanently improves a character's combat stats. He makes everyone around him better.
+- **Gameplay:** Not the strongest individual fighter. His value is force multiplication — put him on a wall section and everyone there performs better. During the day he's your trainer. The tradeoff is opportunity cost — time training is time not building or farming.
+- **Heart events:** H2: organizes the first group meeting about defense rotations. Afterwards, checks in with people one by one. Finds you. "You good? And don't say 'fine.' Nobody's fine." H4: at the range, teaching someone terrified to shoot. Patient, quiet, no ego. "You don't have to be good at this. You just have to know you can." Afterwards: "My mom never held a gun. I think she'd understand why I changed my mind." H6: sitting alone (never happens). Long silence. "My dad died because he was alone. Mom died because we couldn't afford for her not to. Everything I do is because of that. Sometimes I think I'm just running from it. Staying busy so I don't end up on that couch with a bottle." First time the energy stops. H8: community fight — hoarding, stealing, tensions. He steps in, angry. Really angry. "You want to know what kills people? This. Not the zombies — THIS. When we stop being for each other." Raw and real. Works because he's not above it. H10: gives you a hand-printed zine. "Community Defense: A Practical Guide for the End of the World." Hand-drawn illustrations, typos, coffee stains. Last page dedication: *For Mom, who believed people were worth fighting for. For Dad, who needed someone to fight for him. For everyone reading this — you're not alone.* He's shaking when he hands it to you.
+- **Max-bond ability:** Solidarity — once per night, all defenders fight at max effectiveness for one wave regardless of morale, injuries, or debuffs. Fear immunity, panic immunity, wound penalties ignored.
+- **Weakness:** Spreads thin — too many roles and he burns out. Can't sit still — morale drops with nothing to do. Average solo stats — needs people to shine. Takes it personally when someone gives up.
+- **Romanceable:** Yes — passionate, present, all-in. You build something together.
+- **Dynamic with others:** Sal: mutual respect under friction — Sal is "keep your head down," Marco is "organize and fight back." Jasper: takes him under his wing, teaches him to teach. Pax: frustrated by their apathy toward community but respects the work. Rem: she's terrible at training, he makes her feel okay about it. Rowan: instant friends, two warm guys around the campfire. Vess: first person who asks what SHE wants, not what she can do. Greg: the two morale engines — Marco inspires through belief, Greg comforts through presence. They need each other.
 
 ---
 
@@ -331,6 +353,26 @@ Every character has a **primary pillar** and a **secondary pillar**. The combina
 - **Max-bond ability:** Home — all morale maxed for entire night. Nobody panics, flees, or breaks. Spectral attacks do nothing.
 - **Weakness:** Useless in combat, below average physical. Cooking uses more food. If HIS morale breaks, everyone feels it.
 - **Romanceable:** Yes — gentle, present. You make dinner, he keeps you alive.
+
+---
+
+### 16. Ohm (born Jessica) — Alchemist (Fixer + Weird)
+
+- **Age:** Early 20s (21-23)
+- **Gender:** Female
+- **Appearance:** Looks like a machine cult acolyte. Welding goggles pushed up on forehead. Mechanic's jumpsuit modified into robes — cables braided into hair, circuit boards and gears sewn in like holy symbols. Tool belt worn like a rosary. Multitool carried like a cross. Smells like engine oil and ozone.
+- **Personality:** Devout and joyful about it. LOVES machines the way a saint loves God. Touches a running engine with closed eyes. Whispers to turrets while repairing them. Can perfectly mimic a dial-up modem handshake, a dot matrix printer, a hard drive spinning up — does it unconsciously when thinking. Speaks about machines with religious reverence: "She's tired" (generator), "He's angry today" (jamming turret). Sweet, earnest, slightly off in a charming way. Machines she talks to DO work better.
+- **Pre-apocalypse:** Grew up taking apart everything. Found the Church of the Mechanical Divine online — part philosophy, part religion, part tech forum. True believer. Worked at a computer repair shop. Small hardware shrine in her apartment. Abandoned her birth name (Jessica) for her devotional name.
+- **Birth name:** Jessica. Abandoned when she joined the Church. Comes up in heart events as a trust moment. She flinches if someone uses it.
+- **Arrival:** Found on excursion at an old radio tower or server farm she's got running on impossible power sources. Broadcasting a signal — not for help. "Singing to the network." First thing at the farm: touches the generator. "Oh. You poor thing. When's the last time someone talked to you?"
+- **Trait:** Machine Communion — turrets she "blesses" have increased fire rate and reduced jam chance. Generators produce more. Floodlights have wider range. Instant machine diagnosis — no wasted repair time. Can remote-repair during combat by "calling out" to machines.
+- **Seed-dependent reality:** In runs where the Broken God is real: machines glow faintly around her, turrets track targets before they should, broken things repair themselves nearby. Unlocks unique late-game research: Mechanical Apotheosis — turrets gain rudimentary AI. In runs where it's skill: she's an incredibly good mechanic with a religious framework. Smaller buffs, still present. Heart events shift — "real" runs: crisis of awe. "Skill" runs: crisis of doubt.
+- **Gameplay:** Turret whisperer. Rowan builds strong, Pax builds cheap, she makes them sing. Assign to turret maintenance and your gun line performs above spec. Also your power grid person — generators, floodlights, electrical.
+- **Heart events:** H2: asks to "introduce herself" to machines. Walks around murmuring. Floodlights flicker on untouched. "They like you." H4: asleep curled against generator, built a small shrine nearby. "Everyone needs a place to pray." H6: plays you dial-up modem sounds, then something stranger. "That's what they sound like when they dream. The machines. When nobody's listening." H8: a turret she blessed is destroyed. She kneels by wreckage, hands shaking. "I could hear her screaming." Either heartbreaking devotion or genuine psychosis — game doesn't say. H10: puts your hand on a turret. "Listen." You hear something — a hum almost like a voice. She gives you a "translator" she built. Whether it works is seed-dependent. Most intimate gift in the game.
+- **Max-bond ability:** Awakening — once per night, all machines at 200%. Turrets faster, floodlights brighter, generators overflow. In "real" runs, machines visibly glow and move on their own.
+- **Weakness:** Unsettling to skeptics — morale penalty for some. Prioritizes machines over people sometimes. Poor at non-mechanical tasks. Can't farm, mediocre combat.
+- **Romanceable:** Yes — dating someone whose first love is a generator. Arc: is there room for a human in a heart full of machines? There is. She just has to learn people need maintenance too.
+- **Dynamic with others:** Pax: kindred builders, but Pax sees tools, she sees beings. Beautiful collaboration. Rem: wants to understand WHY machines respond to her. "Why do you love what you love? Same reason." Rowan: mutual respect, both talk to what they work with. Everett: tries to categorize her faith. "You can't footnote God." Mabel: two practitioners, different faiths. Mutual recognition. Candice: oil and water — pure rationality vs engineering mysticism. Arguments are legendary. Both right. The Deep One: long strange conversation about underwater machines nobody else follows.
 
 ---
 
